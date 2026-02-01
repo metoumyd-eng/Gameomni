@@ -1,0 +1,7 @@
+{
+  "name": "OmniGame Hub",
+  "description": "A sleek, unified game launcher and library manager. Organize your games from any platform, discover AI-powered descriptions, and track your playtime in a beautiful, modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
